@@ -1,0 +1,24 @@
+.side{
+	position: absolute;
+	top: 60px;
+}
+.header{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 1;
+}
+.header .ivu-layout-header{
+	height: 60px;
+	line-height: 60px;
+}
+#con{
+	z-index: 0;
+	position: absolute;
+	left: 200px;
+	top: 60px;
+	height: auto;
+	right: 0;
+	width: auto;
+	padding: 20px;
+}
