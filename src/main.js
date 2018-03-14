@@ -1,6 +1,7 @@
 import Vue from 'vue'
 
 import VueRouter from 'vue-router';
+import Schart from 'vue-schart';
 import routeConfig from './route-config';
 import App from './App.vue';
 import iView from 'iview';

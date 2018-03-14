@@ -18,7 +18,11 @@
 						</MenuItem>
 					</router-link>
 
-					<MenuItem name="1-3">Option 3</MenuItem>
+					<router-link to="/chart">
+						<MenuItem name="1-3"> 
+							chart
+						</MenuItem>
+					</router-link>
 				</Submenu>
 				
 			</Menu>
